@@ -1,2 +1,11 @@
-# MinePortfolio
-A modern, responsive portfolio showcasing my work as a Frontend Developer. Built with Angular, React, and TypeScript, featuring smooth animations, 3D visuals, and clean UI design. Highlights real-world projects, performance-focused components, and a polished, interactive user experience across all devices.”
+
+  # Responsive Developer Portfolio
+
+  This is a code bundle for Responsive Developer Portfolio. The original project is available at https://www.figma.com/design/xP8xjOSP6TVJRtTdEH7eQL/Responsive-Developer-Portfolio.
+
+  ## Running the code
+
+  Run `npm i` to install the dependencies.
+
+  Run `npm run dev` to start the development server.
+  
