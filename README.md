@@ -1,7 +1,7 @@
 
-  # Responsive Developer Portfolio
+  # Shrachi Saini Portfolio
 
-  This is a code bundle for Responsive Developer Portfolio. The original project is available at https://www.figma.com/design/xP8xjOSP6TVJRtTdEH7eQL/Responsive-Developer-Portfolio.
+  This is a code bundle for Responsive Developer Portfolio. 
 
   ## Running the code
 
