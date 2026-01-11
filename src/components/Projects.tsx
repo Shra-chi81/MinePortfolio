@@ -43,7 +43,7 @@ export function Projects() {
       title: 'Order/User Tracking System',
       description: 'Enterprise admin dashboards with routing guards and workflow automation. Reduced production errors by 30% through comprehensive form validations and clean refactoring.',
       image: 'https://images.unsplash.com/photo-1759661966728-4a02e3c6ed91?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3Nzg4Nzd8MHwxfHNlYXJjaHwxfHxkYXRhJTIwdmlzdWFsaXphdGlvbiUyMGRhc2hib2FyZHxlbnwxfHx8fDE3NjM4ODAzNzZ8MA&ixlib=rb-4.1.0&q=80&w=1080',
-      technologies: ['Angular', 'Laravel', 'MySQL', 'Form Validation', 'Guards'],
+      technologies: ['Next.js','TypeScript', 'Node.js', 'MongoDB', 'REST APIs', 'Bootstrap', 'Guards'],
       github: 'https://github.com',
       demo: 'https://example.com',
       metrics: ['30% Fewer Errors', 'Enhanced Security'],

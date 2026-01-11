@@ -46,11 +46,11 @@ export function Skills() {
 
   const technologies = [
     'Angular 13+', 'React.js', 'TypeScript', 'JavaScript', 'Next.js', 'RxJS',
-    'Tailwind CSS', 'Redux', 'Redux Toolkit', 'GraphQL', 'REST APIs', 'Git',
+    'Tailwind CSS', 'Redux', 'Redux Toolkit', 'GraphQL', 'REST APIs', 'Responsive Design','Git',
     'Webpack', 'Babel', 'ESLint', 'Jest', 'React Testing Library', 'Figma',
     'SCSS', 'Bootstrap', 'Material UI', 'Angular Material', 'PrimeNG',
     'Node.js', 'MongoDB', 'MySQL', 'Postman', 'CI/CD', 'Responsive Design',
-    'Three.js', 'GSAP', 'Lottie', 'Performance Optimization', 'Accessibility',
+    'Vue.js', 'GSAP', 'Performance Optimization', 'Accessibility',
   ];
 
   return (

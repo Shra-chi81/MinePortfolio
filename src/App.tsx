@@ -50,7 +50,7 @@ export default function App() {
 
         <footer className="border-t border-zinc-200 dark:border-zinc-800 py-8">
           <div className="max-w-7xl mx-auto px-6 text-center text-zinc-500 dark:text-zinc-500">
-            <p>&copy; 2025 Shrachi Saini. Crafted with React, TypeScript & Motion.</p>
+            <p>&copy; 2026 Shrachi Saini. Crafted with React, TypeScript & Motion.</p>
           </div>
         </footer>
       </div>

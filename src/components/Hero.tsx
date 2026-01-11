@@ -46,22 +46,34 @@ export function Hero() {
         </motion.div>
         <motion.div variants={itemVariants} className="mb-6">
           <span className="inline-block px-4 py-2 bg-cyan-500/10 border border-cyan-500/20 rounded-full text-cyan-600 dark:text-cyan-400 text-sm">
-            Frontend Developer • Angular  |  React |  NextJs |  TypeScript |  Javascript
+            Frontend Developer • Angular  |  ReactJS |  NextJs |  JavaScript |  TypeScript | NodeJS(Basic)
           </span>
         </motion.div>
 
         <motion.h1 variants={itemVariants} className="mb-6">
-          Building Clean, Scalable
           <span className="block text-transparent bg-clip-text bg-gradient-to-r from-cyan-500 via-blue-500 to-purple-500 dark:from-cyan-400 dark:via-blue-400 dark:to-purple-400">
-            Immersive Web Experiences
+            Building Clean, Scalable Web Experiences
           </span>
         </motion.h1>
+         <motion.div
+          variants={itemVariants}
+          className="text-zinc-600 dark:text-zinc-400 max-w-2xl mx-auto mb-8 space-y-4"
+        >
+          <p>
+            I’m Shrachi Saini, a Frontend Developer with 4+ years of hands-on experience
+            building scalable, high-performance web applications across logistics,
+            e-commerce, spirituality, and event-tech domains.
+          </p>
 
-        <motion.p variants={itemVariants} className="text-zinc-600 dark:text-zinc-400 max-w-2xl mx-auto mb-8">
-          3+ years of hands-on experience across logistics, e-commerce, spirituality, and event-tech. 
-          I turn complex use-cases into smooth, intuitive digital experiences with high-performance UI 
-          engineering, modern 3D visuals & animations — fast, accessible, and aesthetically powerful.
-        </motion.p>
+          <p>
+            I specialize in Angular and React (Next.js), turning complex business workflows
+            into smooth, intuitive, and accessible digital experiences. My work focuses on
+            clean component architecture, performance optimization, and mobile-first
+            design. From global logistics platforms to booking and admin systems, I
+            collaborate closely with cross-functional teams to ship reliable, user-centric
+            solutions built for real-world impact.
+          </p>
+        </motion.div>
 
         <motion.div variants={itemVariants} className="flex items-center justify-center gap-4 mb-12">
           <Button
